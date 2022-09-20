@@ -1,0 +1,32 @@
+body{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.container{
+    background-color: aliceblue;
+    text-align: center;
+    width: 500px;
+}
+h1{
+    margin: 0px 0px 10px 0px;
+}
+input{
+    width: 200px;
+    margin: 10px 0px;
+    padding: 10px;
+}
+button{
+    width: 220px;
+    margin: 10px 0px;
+    padding: 10px;
+    background-color: blue;
+    border: 0px white;
+}
+.id{
+    color: red;
+}

@@ -1,0 +1,50 @@
+
+
+body{
+
+    padding: 50px 150px;
+}
+
+h1{
+    
+    text-align: center;
+
+}
+
+.main{
+    text-align: center;
+    background-color: rgb(190, 166, 166);
+    padding: 50px;
+
+    border: 2px dashed black;
+}
+
+.input{
+    display: inline-block;
+
+
+}
+
+#equal{
+
+    font-size: 60px;
+}
+
+input{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+
+
+}
+label{
+    font-size: 25px;
+    
+}
+
+    
+
+
